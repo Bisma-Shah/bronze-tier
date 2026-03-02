@@ -1,0 +1,19 @@
+# AI Employee - Bronze Tier
+# Python Dependencies
+
+# Core dependencies
+watchdog>=4.0.0
+python-dotenv>=1.0.0
+
+# Optional: For future Gmail watcher implementation
+# google-auth>=2.27.0
+# google-auth-oauthlib>=1.2.0
+# google-auth-httplib2>=0.2.0
+# google-api-python-client>=2.118.0
+
+# Optional: For future WhatsApp watcher (Playwright-based)
+# playwright>=1.40.0
+
+# Development
+pytest>=8.0.0
+pytest-cov>=4.1.0
